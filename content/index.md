@@ -1,21 +1,24 @@
 ---
 title: Kenna's Garden
-draft: false
-tags: []
+tags:
+  - springboard
+  - home
+---
+A collection of self-learning notes ([[Learning how to self-learn]]), useful skills ([[Skills to learn one day]]) and interesting problems that don't fit within my coursework at the [[University of Pretoria]] but find cool regardless. The idea of this home note is to serve as a springboard. If it is important to me then it deserves a brief explanation on the home page.
+
+I love solving technical problems, ones that often need some creativity hidden well enough that a lot of stubbornness is required to unearth. Right now I am interested in the problems affecting telecommunication particularly [[Semantic Communication]]. I believe that [[Artificial Intelligence]] will be at the heart of the next stage of communication.
+
+I love [[Africa]]. My [[Predictions for the African Continent]] are largely positive and at the heart of these predictions are a sense that I want to commit my life to the continent. My angle for impact will be [[Financial Services on the African Continent]], coming from a background in [[Computer Engineering]] and pivoting to [[Applied Mathematics]] is what I will need to do to give myself the best chance to act on the opportunities I see inevitable.
+
+When I am not working on the above two interests - I often build up a list of other interests that I never truly convert into hobbies. That's what I would like to fix right now - [[How to manage my time]]. Ideally though, i'd get to spend all this additional time on....
+
+1. [[Programming Competitions]]
+2. [[Mathematics]]
+3. [[Linux Programming]]
+4. [[Functional Hardware]]
+5. [[Language Learning]]
+6. [[Making predictions about the world]]
+
 ---
 
-A collection of learning notes, useful skills and interesting problems that don't fit within my coursework but find cool regardless. Right now, that will encompass...
-
-(Problems that have intuitive solutions, optimizations or cool visualisations)
-
-> A list will go here at some point, but for now I can at least collect some cool problem sources.
-
-- [Project Euler](https://projecteuler.net/archives) : A new problem every week? That I can write some code for...awesome 
-- [Kaggle](https://www.kaggle.com/competitions): Real world machine learning experience in medium term competitions
-- [Codeforces](https://codeforces.com/contests): Timed contests that help me to think quicker and more confidently.
-- [Machine Learning Competitions](https://mlcontests.com/): More offbeat competitions that are region specific and pretty interesting
-
-(November 2025) I am about a week out from my final 3rd year exam season and I would like to have some fun with my prep. What I don't want to do is have a week to study and allow the holes in my understanding to propagate to the end of the week. There are two exams that I would most like to prepare for are below 
-
-- [[EBB 320 - Control Systems]]
-- [[EDC 310 - Digital Communication]]
+I've chosen [[Obsidian]] as tool for this because *it reduces the weight of knowing there is more to learn about a topic*. So Obsidian is fundamentally a tool to help me learn about myself and my beliefs, in an attempt to discover who I hope to be in the future 
