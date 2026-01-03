@@ -3,6 +3,7 @@ title: Kenna's Garden
 tags:
   - springboard
   - home
+publish: "true"
 ---
 A collection of self-learning notes ([[Learning how to self-learn]]), useful skills ([[Skills to learn one day]]) and interesting problems that don't fit within my coursework at the [[University of Pretoria]] but find cool regardless. The idea of this home note is to serve as a springboard. If it is important to me then it deserves a brief explanation on the home page.
 

@@ -1,8 +1,8 @@
 ---
-created: "{{date}} at {{time}}"
+created: 2026-01-03 at 13:32
 tags:
   - permanent
-publish: "true"
+publish: "false"
 ---
 
 See Also:
