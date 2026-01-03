@@ -57,7 +57,7 @@ const defaultOptions: Options = {
 
     // 3. If it is a file (not a folder), check for explicit publish: true
     if (!node.isFolder) {
-      return nodeFile?.frontmatter?.publish === true
+      return nodeFile?.frontmatter?.publish === true || nodeFile?.frontmatter?.publish === "true"
     }
 
     // 4. Always allow folders so we can reach their children
