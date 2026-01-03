@@ -46,7 +46,23 @@ const defaultOptions: Options = {
       return -1
     }
   },
-  filterFn: (node) => node.slugSegment !== "tags",
+  filterFn: (node: FileTrieNode) => {
+    // 1. Exclude the "tags" folder
+    if (node.slugSegment === "tags") {
+      return false
+    }
+
+    // 2. Cast to 'any' to safely access the 'file' property
+    const nodeFile = (node as any).file
+
+    // 3. If it is a file (not a folder), check for explicit publish: true
+    if (!node.isFolder) {
+      return nodeFile?.frontmatter?.publish === true
+    }
+
+    // 4. Always allow folders so we can reach their children
+    return true
+  },
   order: ["filter", "map", "sort"],
 }
 
