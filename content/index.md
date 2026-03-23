@@ -5,7 +5,7 @@ tags:
   - home
 publish: "true"
 ---
-A collection of self-learning notes ([[Learning how to self-learn]]), useful skills ([[Skills to learn one day]]) and interesting problems that don't fit within my coursework at the [[University of Pretoria]] but find cool regardless. The idea of this home note is to serve as a springboard. If it is important to me then it deserves a brief explanation on the home page.
+*A* collection of self-learning notes ([[Learning how to self-learn]]), useful skills ([[Skills to learn one day]]) and interesting problems that don't fit within my coursework at the [[University of Pretoria]] but find cool regardless. The idea of this home note is to serve as a springboard. If it is important to me then it deserves a brief explanation on the home page.
 
 I love solving technical problems, ones that often need some creativity hidden well enough that a lot of stubbornness is required to unearth. Right now I am interested in the problems affecting telecommunication particularly [[Semantic Communication]]. I believe that [[Artificial Intelligence]] will be at the heart of the next stage of communication.
 
